@@ -1,0 +1,17 @@
+<users>
+	<user>
+		<id>1</id>
+		<pass>123</pass>
+		<name>John</name>
+	</user>
+	<user>
+		<id>2</id>
+		<pass>255</pass>
+		<name>Bob</name>
+	</user>
+	<user>
+		<id>3</id>
+		<pass>112</pass>
+		<name>Kent</name>
+	</user>
+</users>
